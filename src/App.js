@@ -42,7 +42,7 @@ function App() {
   return (
     <div className="container">
    
-      <h1 id>Twitch Streamers</h1>
+      <h1 id='header'>Twitch Streamers</h1>
       
       {channelsData.map((channel) => (
         <div key={channel.name} className='channel-container'>
