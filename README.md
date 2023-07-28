@@ -1,6 +1,7 @@
 # Twitch API React Project
 
 This project is a React application that fetches data from the Twitch API and displays information about different Twitch channels.
+View the website here (https://64c3fce6035c7b1fd42f718e--ivieone.netlify.app)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
